@@ -1,4 +1,7 @@
 # Music-Recommendation-System
+![image](https://github.com/shivangii2007/Music-Recommendation-System/assets/143331079/9303bc92-9500-4506-925d-91deac2f7ca9)
+
+
 Implemented a content-based and collaborative filtering recommendation systems for song recommendations.
 It is an unsupervised learning model which analyses playlists and gives recommendations.
 We created this project to see if we can actually understand the musical patterns of a listener with their playlist as source and what factors are really useful in determining the taste and interest of the listener.
